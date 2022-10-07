@@ -1,0 +1,57 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  text-align: center;
+}
+
+i {
+  padding: 2%;
+}
+
+p {
+  text-align: center;
+  font-size: 1.2em;
+  line-height: 2em;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+ol {
+  font-size: 1.2em;
+  line-height: 2em;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 40%;
+}
+
+.underline {
+  text-decoration: underline;
+  text-align: center;
+  font-size: 1.2em;
+  line-height: 2em;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+body {
+  background-color: #fff6e8;
+}
